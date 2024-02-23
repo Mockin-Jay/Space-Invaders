@@ -1,5 +1,4 @@
 Jessica Chan\
-20901141 j346chan\
 Java Version: "18.0.2"\
 OS and Version: Microsoft Windows 11 Pro version 10.0.22621 Build 22621
 
